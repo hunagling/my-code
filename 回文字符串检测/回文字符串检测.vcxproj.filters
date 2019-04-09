@@ -18,5 +18,8 @@
     <ClCompile Include="回文字符串检测.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="mystack.h">
+      <Filter>头文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
